@@ -1,0 +1,23 @@
+{
+  "devFiles": [],
+  "ampDevFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [],
+  "rootMainFiles": [],
+  "pages": {
+    "/_app": [
+      "static/chunks/cc8bc_next_dist_compiled_b27b42a3._.js",
+      "static/chunks/cc8bc_next_dist_shared_lib_01b14a55._.js",
+      "static/chunks/cc8bc_next_dist_client_49a42db8._.js",
+      "static/chunks/cc8bc_next_dist_0e9e2b99._.js",
+      "static/chunks/cc8bc_next_app_552cd0c5.js",
+      "static/chunks/[next]_entry_page-loader_ts_b13e0eaa._.js",
+      "static/chunks/47b69_react-dom_4c528255._.js",
+      "static/chunks/movicool_1d603d68._.js",
+      "static/chunks/[root-of-the-server]__9307b647._.js",
+      "static/chunks/movicool_frontend_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-movicool_frontend_pages__app_c37b59af._.js"
+    ]
+  },
+  "ampFirstPages": []
+}
